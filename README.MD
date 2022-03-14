@@ -1,4 +1,4 @@
-<a href="https://dev.family/?utm_source=github&utm_medium=junior-backend-exam&utm_campaign=readme"><img width="auto" center src="https://github.com/dev-family/junior-backend-exam/blob/master/logo.png" /></a>
+<a href="https://dev.family/?utm_source=github&utm_medium=junior-backend-exam&utm_campaign=readme"><img width="auto" center src="https://github.com/dev-family/junior-backend-exam/blob/main/logo.png" /></a>
 
 # Task 1
 The website of one of our old clients was hacked. After hacking, a strange red bar appeared on the site at the bottom of the page (https://imgur.com/gYWYQ0r). We don't have any sources left in the git, I can only give you an archive from the production (exam.tgz).
